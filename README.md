@@ -1,4 +1,7 @@
 YouTube Link to Project: https://youtu.be/7w_9FiDkF_w
+![Screenshot 2023-11-03 152524](https://github.com/vanessabags/FESD-week15/assets/131323530/a2f78989-462b-4281-8b18-581dadac5979)
+![image](https://github.com/vanessabags/FESD-week15/assets/131323530/c14ac148-c134-40bd-8348-f40e48cfc317)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
